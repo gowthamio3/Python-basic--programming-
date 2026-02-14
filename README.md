@@ -5,4 +5,5 @@ This repository contains basic python programs created for practice.
 - more programs will be added soon
 ## technologies used
 - python
+
 Author: sarvasuddi Gowthami 
