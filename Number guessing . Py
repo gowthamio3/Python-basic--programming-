@@ -1,0 +1,8 @@
+# simple Number Guessing Game 
+import random 
+number = random.randint(1,5) 
+guess = int(input("guess the random number between 1,5:"))
+if guess == number:
+    print("Correct! You guessed the right number.")
+else:
+    print(" Wrong!! the correct number was",number.)
