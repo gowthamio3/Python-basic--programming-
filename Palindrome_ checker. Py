@@ -1,0 +1,6 @@
+# palindrome checker 
+text = input("enter the word":)
+if text==text[::-1]:
+    print("text is palindrome")
+else:
+    print("text is not palindrome")
