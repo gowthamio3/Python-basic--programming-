@@ -5,6 +5,8 @@ This repository contains basic python programs created for practice.
 - prime number checker
 - palindrome checker
 - Number guessing game
+- Fatorial program
+- fabonacci series program
 - more programs will be added soon
 ## technologies used
 - python
