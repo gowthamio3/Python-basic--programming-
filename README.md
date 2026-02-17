@@ -7,6 +7,7 @@ This repository contains basic python programs created for practice.
 - Number guessing game
 - Fatorial program
 - fabonacci series program
+- Armstrong number checker
 - more programs will be added soon
 ## technologies used
 - python
