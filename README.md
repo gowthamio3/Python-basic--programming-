@@ -8,6 +8,7 @@ This repository contains basic python programs created for practice.
 - Fatorial program
 - fabonacci series program
 - Armstrong number checker
+- student grade system 
 - more programs will be added soon
 ## technologies used
 - python
